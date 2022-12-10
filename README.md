@@ -4,3 +4,5 @@ The Code can be found in the .ipynb. Inorder to re-run the code download the dat
 Data Can be found at https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq
 
 Also make sure to give the appropriate file paths for saved models as well.
+
+The data and models can also be found at https://drive.google.com/file/d/121J2J7Obo6pfb9dfWnWPrHvc-2HAVQmZ/view?usp=sharing
